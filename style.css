@@ -181,23 +181,25 @@ footer{
     background-color: var(--Dark-Blue);
     display: flex;
     justify-content: space-around;
+    height: 130px;
 }
-
+footer 
 #footer-paragraph, #footer-li{
     color: white;
-    font-size: 11px;
+    font-size: 18px;
 }
 
 .link{
     display: flex;
 }
 .link img{
+    height: 20px;
     padding-top: 20px;
-    height: 10px;
 }
 
 
 .footer-icons img{
-    width: 10px;
+    width: 15px;
     padding-top: 20px;
+    padding-left: 5px;
 }
